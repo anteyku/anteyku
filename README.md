@@ -1,2 +1,1 @@
-Helloy 
-about me anteyku
+[! [ Популярные языки ] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = anuraghazra )] (https://github.com/anuraghazra/github-readme-stats)
