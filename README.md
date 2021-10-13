@@ -1,4 +1,4 @@
-![Header](surtr-arknights-8k-6v-3840x2160.jpg)
+![Header](готовое.jpg)
 ## Привет, мы компания Anteyku
 и нам очень нравиться кодить
 
