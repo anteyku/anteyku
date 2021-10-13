@@ -1,4 +1,4 @@
-![Header](готовое.jpg)
+![Header](logocompany.jpg)
 ## Привет, мы компания Anteyku
 и нам очень нравиться кодить
 
