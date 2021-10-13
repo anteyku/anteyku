@@ -1,6 +1,11 @@
-![Header](пркеуарпекрекр.jpg)
-## Привет, мы компания Вася Anteyku
+![Header](surtr-arknights-8k-6v-3840x2160.jpg)
+## Привет, мы компания Anteyku
 и нам очень нравиться кодить
+
+![Flutter](https://img.shields.io/badge/JavaScript-<orange>)
+![Flutter](https://img.shields.io/badge/JavaScript-<orange>)
+![Flutter](https://img.shields.io/badge/JavaScript-<orange>)
+![Flutter](https://img.shields.io/badge/JavaScript-<orange>)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
